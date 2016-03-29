@@ -1,0 +1,24 @@
+{
+  "name": "mbed-hal-st-stm32f103rb",
+  "version": "0.0.1",
+  "description": "mbed HAL for stm32f103rb microcontrollers",
+  "keywords": [
+    "mbed"
+  ],
+  "author": "BN",
+  "homepage": "https://github.com/L3if3rikson/mbed-hal-st-stm32f103rb.git",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "extraIncludes": [
+    "mbed-hal-st-stm32f103rb"
+  ],
+  "dependencies": {
+    "cmsis-core": "^1.0.0",
+    "uvisor-lib": "^2.1.0"
+  },
+  "targetDependencies": {}
+}
